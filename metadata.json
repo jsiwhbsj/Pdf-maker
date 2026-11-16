@@ -1,0 +1,8 @@
+{
+  "name": "PDF PLUS",
+  "description": "PDF Maker Plus — All-in-One native Android PDF Studio for creating, merging, splitting, compressing, scanning, viewing, editing, signing, and managing PDFs in English & Bengali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
